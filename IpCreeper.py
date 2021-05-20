@@ -9,7 +9,7 @@ time.sleep(2)
 print("This tool is meant for educational purposes only")
 time.sleep(3)
 print("Ｉｐ Ｃｒｅｅｐｅｒ")
-print("Created by Rahul.G")
+print("Created by RahulGonal")
 time.sleep(5)
 
 print("You need access token to continue, sign in to ipinfo.io to get access token")
