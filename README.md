@@ -1,4 +1,8 @@
 # IpCreeper
+![Made With Love](https://forthebadge.com/images/badges/built-with-love.svg)
+![Made With Python](https://forthebadge.com/images/badges/made-with-python.svg)
+![IDK](https://forthebadge.com/images/badges/built-by-developers.svg)
+
 This python application gets info of ip adresses using python 
 
 # Contributors
