@@ -11,6 +11,5 @@ setup(
     install_requires=[
         'ipinfo',
         'faker'
-        
     ]
 )
