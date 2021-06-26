@@ -1,7 +1,8 @@
 # IpCreeper
-![Made With Love](https://forthebadge.com/images/badges/built-with-love.svg)
-![Made With Python](https://forthebadge.com/images/badges/made-with-python.svg)
-![IDK](https://forthebadge.com/images/badges/built-by-developers.svg)
+![MadeByRahul](https://img.shields.io/badge/Made%20By-RahulGonal-orange)
+![MadeWithPython](https://img.shields.io/badge/Made%20With-Python-blue)
+![Passed](https://img.shields.io/badge/Tests-Succesfully%20Passed-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-orange)
 
 This python application gets info of ip adresses using python 
 
