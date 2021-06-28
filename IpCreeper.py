@@ -1,7 +1,7 @@
 import ipinfo
 from pprint import pprint
 import time
-import pyfiglet
+from pyfiglet import figlet_format
 from random import randint
  
 font = ['slant', "3-d", "3x5", "5lineoblique",
