@@ -3,7 +3,7 @@ from pprint import pprint
 import time
 from pyfiglet import figlet_format
 from random import randint
-from colorama import Fore
+from colorama import Fore,Style
  
 font = ['slant', "3-d", "3x5", "5lineoblique",
         "alphabet", "banner3-D", "doh", "isometric1", "letters",
