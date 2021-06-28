@@ -14,8 +14,8 @@ This python application gets info of ip adresses using python
 RahulGonal (The coder and the brains of the operation)
 
 # Usage in kali linux
-Commands:
 ```
+Commands:
 1. sudo apt install git, 
 2. sudo apt install python, 
 3. git clone https://github.com/RahulGonal/IpCreeper, 
@@ -25,3 +25,14 @@ Commands:
 5. pip install -r requirements.txt
 6. python IpCreeper.py, 
 ```
+# Usage in Termux
+```
+Commands :
+
+1. pkg install git python -y, 
+2. git clone https://github.com/RahulGonal/IpCreeper, 
+3. cd IpCreeper, 
+4. python setup.py install, 
+            or
+5. pip install -r requirements.txt
+6. python IpCreeper.py, 
