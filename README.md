@@ -21,5 +21,7 @@ Commands:
 3. git clone https://github.com/RahulGonal/IpCreeper, 
 4. cd IpCreeper, 
 5. python setup.py install, 
+            or
+5. pip install -r requirements.txt
 6. python IpCreeper.py, 
 ```
