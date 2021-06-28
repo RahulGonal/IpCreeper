@@ -8,7 +8,7 @@ font = ['slant', "3-d", "3x5", "5lineoblique",
         "alphabet", "banner3-D", "doh", "isometric1", "letters",
         "alligator", "dotmatrix", "bubble", "bulbhead", "digital"]
 random_choice = randint(0, len(font))
-ascii_art = figlet_format(msg, font=font[random_choice])
+ascii_art = figlet_format("IpCreeper", font=font[random_choice])
 print(ascii_art)
 
 print("Created by RahulGonal")
