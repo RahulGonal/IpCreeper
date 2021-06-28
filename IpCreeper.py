@@ -3,14 +3,16 @@ from pprint import pprint
 import time
 from pyfiglet import figlet_format
 from random import randint
+from colorama import Fore
  
 font = ['slant', "3-d", "3x5", "5lineoblique",
         "alphabet", "banner3-D", "doh", "isometric1", "letters",
         "alligator", "dotmatrix", "bubble", "bulbhead", "digital"]
 random_choice = randint(0, len(font))
 ascii_art = figlet_format("IpCreeper", font=font[random_choice])
-print(ascii_art)
-print(colored_ascii)
+print(Fore.GREEN + ascii_art)
+print(Style.RESET_ALL)
+
 print("Created by RahulGonal")
 time.sleep(5)
 print("Welcome to IP Creeper")
