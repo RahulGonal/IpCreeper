@@ -53,3 +53,6 @@ Commands :
 ```
 For Detailed Explaination Watch the video Below
 [![Image Of is](https://img.youtube.com/vi/NF2RgVjxRwQ/0.jpg)](https://m.youtube.com/watch?v=NF2RgVjxRwQ)
+
+# Buy Me Coffee
+[![Toy](https://github.com/RahulGonal/IpCreeper/blob/704a9a50bec952f2d70eeb299dfdb2f69e3330e5/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67.png)](https://www.buymeacoffee.com/RahulRocks75)
