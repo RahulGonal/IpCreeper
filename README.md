@@ -18,6 +18,16 @@ This python script gets info of ip adresses.
 # Contributors
 RahulGonal (The coder and the brains of the operation)
 
+# Usage in Python
+```
+Commands:
+pip install ipcreeper
+
+Code:
+import IpCreeper
+IpCreeper.init
+```
+Once you run this IpCreeper will start running
 # Usage in kali linux
 ```
 Commands:
