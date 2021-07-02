@@ -38,7 +38,7 @@ if "2" or "IpInfo" in Website:
     pprint(details.all)
 
 if "3" or "Both" in Website:
-    ShApi = input("Enter your shodan api key >>>> ")
+    ShApi = input(Shodan("Enter your shodan api key >>>> "))
     Sinfo = sApi.host(ip_address)
     IpApi = input('Type your access token or api key from ipinfo.io >>>>> ')
     handler = ipinfo.getHandler(IpApi)
