@@ -26,7 +26,7 @@ print('3.Both (You will need both the websites api keys for this)')
 Website = input("Choose One Option >>>> ")
 
 if "1" or "Shodan" in Website:
-    sApi = input("Enter your shodan api key >>>> ")
+    sApi = input(Shodan("Enter your shodan api key >>>> "))
     Sipinfo = sApi.host(ip_address)
     print(Sipinfo)
 
