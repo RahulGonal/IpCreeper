@@ -17,6 +17,7 @@ This python script gets info of ip adresses.
 
 # Contributors
 RahulGonal (The coder and the brains of the operation)
+beni2a (for pointing out errors)
 
 # Usage in kali linux
 ```
