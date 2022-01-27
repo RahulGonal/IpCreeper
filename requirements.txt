@@ -1,3 +1,4 @@
 ipinfo
 faker
 pyfiglet
+shodan
