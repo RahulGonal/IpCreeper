@@ -6,7 +6,6 @@
 ![MadeWithPython](https://img.shields.io/badge/Made%20With-Python-blue)
 ![Passed](https://img.shields.io/badge/Tests-Succesfully%20Passed-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-orange)
-![BOI](https://camo.githubusercontent.com/f38efb4f24775f820a8342d268a112f5f672a19b265609af81bcc784b0c5f87c/68747470733a2f2f6170692e636f646163792e636f6d2f70726f6a6563742f62616467652f47726164652f3130373237373938326436613466326239633535626261306436366438303531)
 ![HE](https://img.shields.io/badge/Type-OSINT%20Tool-blue)
 # IpCreeper
 
