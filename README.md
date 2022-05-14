@@ -15,8 +15,8 @@ This python script gets info of ip adresses.
 [![Open in Cloud Shell](https://github.com/RahulGonal/IpCreeper/blob/88b0e2b57c80ef855b22e59ae704280f84e48f14/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/RahulGonal/IpCreeper)
 
 # Contributors
-RahulGonal (The coder and the brains of the operation)
-beni2a (for pointing out errors)
+RahulGonal (The coder and the brains of the operation), 
+ beni2a (for pointing out errors)
 
 # Usage in kali linux
 ```
